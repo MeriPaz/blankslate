@@ -19,11 +19,11 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Maria de la Paz Vilas
 organizations:
-- name: Stanford University
+- name: CSIRO
   url: ""
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 social:
 - icon: twitter
   icon_pack: fab
