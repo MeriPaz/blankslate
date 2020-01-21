@@ -36,11 +36,11 @@ social:
   link: https://www.linkedin.com/in/maria-vilas/?originalSubdomain=au
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/MeriPaz
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Maria Vilas is an environmental scientist interested in increasing sustainability in agricultural catchments. She holds a PhD from the University of Western Australia. Her current research focuses on optimising fertiliser management in Australian sugarcane systems to protect the health of Australia's natural wonder: the Great Barrier Reef. She has 8+ years of experience in using numerical models to better understand how aquatic and terrestrial ecosystems work and how they can be managed more sustainably. She possesses programming skills in MATLAB, R, C#.
+Maria Vilas is an environmental scientist interested in increasing sustainability in agricultural catchments. She holds a PhD from the University of Western Australia where she studied the impact of invasive submerged plants on water quality. Her current research focuses on optimising fertiliser management in Australian sugarcane systems to protect the health of Australia's natural wonder: the Great Barrier Reef. She has 8+ years of experience in using numerical models to better understand how aquatic and terrestrial ecosystems work and how they can be managed more sustainably. She has programming skills in MATLAB, R, C#.
