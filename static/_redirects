@@ -1,0 +1,5 @@
+http://mariavila.rbind.io/*    https://mariavila.rbind.io/:splat  301!
+https://mariavila.netlify.com/*  https://mariavila.rbind.io/:splat   301!
+
+
+
