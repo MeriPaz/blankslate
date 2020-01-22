@@ -1,21 +1,22 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: ""
+external_link: "https://research.csiro.au/digiscape/digiscapes-projects/great-barrier-reef-and-sugarcane-production/"
 image:
-  caption: '[Art](https://github.com/hadley/joy-of-fp) by [@allisonhorst](https://github.com/allisonhorst/stats-illustrations)'
+  caption: ''
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 slides: example
 summary: An example of using the in-built project page.
 tags:
-- Monsters
-- Baking
+- Agriculture
+- Water quality
+- Sustainability
 title: Internal Project
-url_code: ""
+url_code: "https://wq.1622.farm/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
