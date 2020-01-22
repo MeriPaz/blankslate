@@ -7,10 +7,6 @@ publication = "In: Science of The Total Environment, (672), _pp. 846--854_"
 abstract = ""
 abstract_short = ""
 image_preview = ""
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
 selected = false
 projects = []
 tags = []

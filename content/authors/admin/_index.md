@@ -1,24 +1,20 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include water quality and sustainable agriculture.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Environmental Science
+    institution: University of Western Australia
+    year: 2018
+  - course: BSc in Biological Sciences
+    institution: University of Buenos Aires
     year: 2008
-email: ""
+email: "mariapazvilas@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Environmental modelling
+- Water quality
+- Sustainable agriculture
 name: Maria de la Paz Vilas
 organizations:
 - name: CSIRO
