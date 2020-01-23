@@ -44,7 +44,7 @@ height = ""
   overlay_filter = 0.4  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
+  title = "Water quality"
   # content = "I am right aligned :smile:"
   align = "right"
 
