@@ -46,7 +46,7 @@ height = ""
 [[item]]
   title = "Water quality"
   # content = "I am right aligned :smile:"
-  align = "right"
+  align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "headers/Reef-wide.jpg"  # Image path relative to your `static/img/` folder.
