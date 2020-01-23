@@ -17,16 +17,11 @@
   name = "Publications"
   url = "/Publications"
   weight = 30
-  
-[[main]]
-  name = "Talks"
-  url = "/talk"
-  weight = 40
 
 [[main]]
   name = "About me"
   url = "/authors/admin"
-  weight = 50
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
