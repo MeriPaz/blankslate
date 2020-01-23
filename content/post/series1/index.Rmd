@@ -1,23 +1,23 @@
 ---
 authors:
-- admin
+- Maria Vilas & Michelle Colgrave
 categories:
-- Demo
-date: "2010-09-21T00:00:00Z"
+# - Demo
+date: "2019-12-01T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: '[Art](https://github.com/hadley/joy-of-fp) by [@allisonhorst](https://github.com/allisonhorst/stats-illustrations)'
+  caption: ""
   focal_point: ""
   placement: 1
   preview_only: false
-lastmod: "2010-09-21T00:00:00Z"
+lastmod: "2019-12-01T00:00:00Z"
 projects: []
-subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
+subtitle: ''
 summary: Create a beautifully simple website in under 10 minutes.
 tags:
 - Academic
-title: 'All about series 1 here!'
+title: 'CLEAR: a framework for mentoring relationships'
 params:
   series: 1
   palette: "Darjeeling1"
@@ -40,31 +40,22 @@ ratings <- readr::read_csv(glue::glue("ratings-{params$series}.csv")) %>%
   mutate(episode = as.factor(episode))
 ```
 
+There is overwhelming evidence that career mentoring is linked with professional success and job satisfaction. However, mentoring relationships are not only difficult to establish but hard to nourish in a world where schedules are filled with commitments. Both mentors and mentees are often confronted with having to manage their work, team, and grow their public profile leaving little time for developing working mentoring relationships.
 
-# Overview
+Mentoring can take different forms. It can be natural, formal, professional, personal, among many others. Mentoring relationships can take both structured and unstructured approaches. When a formal mentoring relationship is established it can sometimes help to have a structure around it.
 
-Series `r params$series` premiered on `r min(ratings$uk_airdate)`, and had `r n_distinct(ratings$episode)` episodes.
+Here we draw on our formal mentoring relationship and develop a framework to help facilitate the mentoring process for both mentor and mentee. We share our own experience to hopefully provide guidance to early career researchers (ECRs) and their mentors on how to make the best out of their mentoring relationships. Although this framework worked for us, we acknowledge that every mentoring relationship is different and may well use of a different approach.
 
-# Ratings
+Having clarity of purpose is the first step to create positive change in your professional career. You may not have clarity on what your purpose may be, and that’s fine. Mentoring relationships can help you develop this clarity. Mentors can help you conceptualise SMART (Specific, Measurable, Achievable, Relevant, and Time-bound) career goals and develop a career plan to achieve them. Well conceptualised goals can in turn allow you to identify areas to grow and specific activities that will help you develop these areas. It is that we introduce the framework CLEAR:
 
-```{r ratings-by-episode}
-viewers <- ratings %>% 
-  select(series:viewers_28day) %>% 
-  pivot_longer(starts_with("viewers"), 
-    names_to = "days", 
-    names_prefix = "viewers_", 
-    values_to = "viewers"
-  ) 
-ggplot(viewers, 
-       aes(episode, viewers, 
-           colour = days, group = days)
-       ) + 
-  geom_point() + 
-  geom_line() + 
-  labs(
-    x = "Episode", 
-    y = "Viewers (millions)"
-  ) +
-  expand_limits(y = 0) +
-  scale_colour_manual(values = wes_palette(params$palette))
-```
+C – Communicate with your mentor – Your ability to advance your career is highly dependent on your capability to identify areas to grow. It is important that you regularly meet with your mentor and discuss what these areas to grow may be. Just like identifying your areas to grow, discussing your strengths is equally important. Discussing your strengths with your mentor may give you clarity on how to use them to their full potential. Don’t forget to prepare before each meeting and use your mentor’s time wisely.
+
+L – Listen to your mentor – Communicating with mentor is the first step, but listening is equally important. Your mentor is someone with more experience that can give you specific examples of how he/she has worked a specific aspect in the past. By actively listening to your mentor you can devise an activity that will help you grow in a specific area.
+
+E – Engage in an activity – This is probably the most important aspect of career related mentoring. The more you engage in challenging (and not so challenging) activities, the easier it will be to internalise the learning. By getting out of your “comfort zone” you will gain experience, build your self-confidence and develop a feeling of accomplishment.
+
+A – Assess progress – Share the outcomes of the activity with your mentor and take notes on what you think went well or what you could improve next time. You can also do self-assessment by asking yourself questions such as: What did I learn from engaging in this activity? What was successful? What could I do better next time?
+
+R – Repeat – To internalise the learning is essential that you repeat this cycle. The more activities you engage in and learn from, the easier it will be to overcome future challenges.
+
+Investing in mentoring relationships equals investing in your future. We encourage ECRs to create transformational change in their career by implementing the CLEAR framework. 
