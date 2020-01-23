@@ -5,10 +5,10 @@ image:
   caption: Nitrification inhibitors
   focal_point: Smart
 slides: example
-summary: Will nitrification inhibitors help farmers protect the Great Barrier Reef?
+summary: The project will contribute towards the goal of more targeted use of NIs. This will in turn provide savings to sugarcane farmers by avoiding the use of these products in situations where they are unlikely to provide benefits. 
 tags:
 - Deep Learning
-title: Internal Project
+title: Will nitrification inhibitors help farmers protect the Great Barrier Reef?
 url_code: ""
 url_pdf: ""
 url_slides: ""
