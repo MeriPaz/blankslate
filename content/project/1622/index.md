@@ -1,6 +1,6 @@
 ---
 date: "2018-02-01T00:00:00Z"
-external_link: ""
+external_link: "https://research.csiro.au/digiscape/digiscapes-projects/great-barrier-reef-and-sugarcane-production/"
 image:
   caption: 1622
   focal_point: Smart
