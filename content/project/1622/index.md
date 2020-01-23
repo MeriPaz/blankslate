@@ -13,7 +13,7 @@ tags:
 - Sustainability
 - Farmer engagement
 title: 1622
-url_code: "https://research.csiro.au/digiscape/digiscapes-projects/great-barrier-reef-and-sugarcane-production/"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
