@@ -5,7 +5,7 @@ image:
   caption: Nitrification inhibitors
   focal_point: Smart
 slides: example
-summary: The project will contribute towards the goal of more targeted use of NIs. This will in turn provide savings to sugarcane farmers by avoiding the use of these products in situations where they are unlikely to provide benefits. 
+summary: The project will contribute towards the goal of more targeted use of nitrification inhibitors in North Queensland (Australia).
 tags:
 - Deep Learning
 title: Will nitrification inhibitors help farmers protect the Great Barrier Reef?
@@ -15,4 +15,4 @@ url_slides: ""
 url_video: ""
 ---
 
-To protect the Great Barrier Reef (GBR), the Queensland government has set a target of 60% reduction in nitrogen discharge to the Reef by 2025. This project evaluates whether the use of a nitrification inhibitor coated fertiliser by farmers in GBR catchments can reduce nitrogen losses under tropical soils and climates, and help farmers achieve the water quality target.
+To protect the Great Barrier Reef (GBR), the Queensland government has set a target of 60% reduction in nitrogen discharge to the Reef by 2025. This project evaluates whether the use of a nitrification inhibitor coated fertiliser by farmers can reduce nitrogen losses under tropical soils and climates, and help farmers achieve the water quality target.
