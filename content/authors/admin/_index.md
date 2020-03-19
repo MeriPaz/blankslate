@@ -17,9 +17,9 @@ interests:
 - Sustainable agriculture
 name: Maria de la Paz Vilas
 organizations:
-- name: CSIRO
+- name: Queensland Government
   url: ""
-role: Postdoctoral Fellow
+role: Senior Scientist
 social:
 - icon: twitter
   icon_pack: fab
